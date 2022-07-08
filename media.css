@@ -1,0 +1,53 @@
+.rr{
+    padding-top: 90px;
+    padding-bottom: 60px;
+    font-size:xx-small;
+    color: darkslategrey;
+  }
+.ss li{
+    padding-left: 32px;
+    font-family: 'Times New Roman', Times, serif;
+}
+.dora ul{
+    font-family: 'Times New Roman', Times, serif;
+    padding-top: 5px;
+    float: right;
+}
+
+.nav{
+    font-family: 'Times New Roman', Times, serif;
+    float: right;
+    padding-top: 30px;
+    font-size: x-small;
+}
+.nav a{
+    color:grey;
+}
+.navbar{
+    background-color:#fff;
+    border-bottom: 1px solid #BDBDBD;
+    
+}
+.nav-item a{
+color: #BDBDBD;
+padding-bottom: px;
+font-size: smaller;
+padding-left: px;
+}
+
+.nav-item a:hover{
+    color: black;
+}
+.navbar-brand{
+    color:#212529;
+}
+.med {
+    font-size: x-small;
+    padding-top: 13px;
+    font-family: 'Times New Roman', Times, serif
+}
+.med2{
+    padding-bottom: 15px;
+    font-size: x-small;
+    font-family: 'Times New Roman', Times, serif
+}

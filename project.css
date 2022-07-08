@@ -1,0 +1,52 @@
+.yy h3{
+  padding-top: 80px;
+  font-family:'Times New Roman', Times, serif;
+}
+.yy{
+  margin-bottom: 2px solid black;
+
+}
+.explore-food .card{
+    border:none;
+    background-color: transparent;
+    /* padding-bottom: ; */
+    /* padding-left: ; */
+  }
+  .explore-food .card img{
+    object-fit: cover;
+    width: 430px;
+    height: 250px;
+     }
+ .rr{
+    padding-top: 120px;
+    padding-bottom: 60px;
+    font-size:xx-small;
+    color: darkslategrey;
+  }
+  .dd{
+padding-left: px;
+padding-bottom: 0px;
+
+  }
+  .ss li{
+    padding-left: 32px;
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .navbar{
+    background-color:#fff;
+    border-bottom: 1px solid #BDBDBD;
+    
+  }
+  .nav-item a{
+  color: #BDBDBD;
+  padding-bottom: px;
+  font-size: smaller;
+  padding-left: px;
+  }
+  
+  .nav-item a:hover{
+    color: black;
+  }
+  .navbar-brand{
+    color:#212529;
+  }

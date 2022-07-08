@@ -1,0 +1,63 @@
+.ss li{
+  padding-left: 32px;
+  font-family: 'Times New Roman', Times, serif;
+}
+.navbar{
+  background-color:#fff;
+  border-bottom: 1px solid #BDBDBD;
+  
+}
+.nav-item a{
+color: #BDBDBD;
+padding-bottom: px;
+font-size: smaller;
+padding-left: px;
+}
+
+.nav-item a:hover{
+  color: black;
+}
+.navbar-brand{
+  color:#212529;
+}
+
+.book-food{
+    width:100%;
+    background:url('img2/b.jpg') no-repeat center;
+    background-size: cover;
+    background-attachment: fixed;
+    /* background-position:0 71.9125px; */
+    /* padding:4.375rem 0 */
+  }
+  .book-food{
+    padding-bottom: 630px;
+  }
+  .tt{
+    font-family: 'Times New Roman', Times, serif;
+  }
+  .dd{
+    /* background-color: blueviolet; */
+    padding-top: 35%;
+  }
+  .aa{
+    /* height: 40px;
+    width: 30px; */
+    /* background-color: aqua; */
+    padding-top: 30%;
+    padding-left: 30px;
+  }
+  .aa img{
+    height: 260px;
+    width: 180px;
+    /* padding-left:  30%; */
+   
+  }
+  .to{
+    padding-bottom: 50px;
+  }
+  .rr{
+    padding-top: 90px;
+    padding-bottom: 60px;
+    font-size:xx-small;
+    color: darkslategrey;
+  }
